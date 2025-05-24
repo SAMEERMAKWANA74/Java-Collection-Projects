@@ -9,19 +9,5 @@ Whether you're a beginner trying to understand how collections work in Java or p
 ## 📚 Topics Covered
 
 - **List Interface**
-  - `ArrayList` Example
-  - `LinkedList` Example
-- **Set Interface**
-  - `HashSet` Example
-  - `LinkedHashSet` Example
-  - `TreeSet` Example
-- **Map Interface**
-  - `HashMap` Example
-  - `LinkedHashMap` Example
-  - `TreeMap` Example
-- **Queue Interface**
-  - `PriorityQueue` Example
-  - `Deque` Example
-- **Stack (Legacy but useful)**
-
----
+  - Task-Tracker Example of `ArrayList` 
+  
