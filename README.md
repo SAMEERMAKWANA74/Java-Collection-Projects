@@ -12,5 +12,5 @@ Whether you're a beginner trying to understand how collections work in Java or p
   - Task-Tracker Example of `ArrayList` 
   
 
-### ✔️ Stack
-- CopyStack: Program to copy a stack using two stacks
+-### ✔️ Stack
+    - CopyStack: Program to copy a stack using two stacks
