@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -16,6 +15,7 @@ public class Main {
             System.out.println("2. View Task");
             System.out.println("3. Delete Task");
             System.out.println("4. Exit");
+            
             System.out.println("Enter Choice: ");
             choice=scanner.nextInt();
             scanner.nextLine();
